@@ -1,7 +1,7 @@
 # content
 - [Introduction](#Introduction)
-- [generate background](#generate background)
-- [How to use](#How to use)
+- [generate background](#background)
+- [How to use](#How-to-use)
 - [TcpSocket](#TcpSocket)
 - [WebSocket](#WebSocket)
 - [UdpSocket](#UdpSocket)
