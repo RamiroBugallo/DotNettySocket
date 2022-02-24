@@ -1,11 +1,11 @@
-# content
+# Content
 - [Introduction](#Introduction)
-- [generate background](#background)
+- [Background](#background)
 - [How to use](#How-to-use)
 - [TcpSocket](#TcpSocket)
 - [WebSocket](#WebSocket)
 - [UdpSocket](#UdpSocket)
-- [end](#end)
+- [End](#end)
 
 # Introduction
 DotNettySocket is a .NET cross-platform Socket framework (supports .NET4.5+ and .NET Standard2.0+), and supports TcpSocket, WebSocket and UdpSocket at the same time. It is based on Microsoft's powerful DotNetty framework and strives to provide the most simple* for Socket communication. *, **efficient**, **elegant** operation.
@@ -342,7 +342,7 @@ namespace UdpSocket.Client
 }
 ```
 
-# end
+# End
 All the above examples are in the source code. If you think it is good, please like it and add a star. I hope it can help everyone.
 
 If you have any questions, please feedback or join the group to communicate
